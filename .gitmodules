@@ -5,3 +5,6 @@
 [submodule "YangHuiMagic"]
 	path = YangHuiMagic
 	url = https://github.com/cran/YangHuiMagic
+[submodule "dynasim"]
+	path = dynasim
+	url = https://github.com/cran/dynasim

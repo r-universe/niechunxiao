@@ -8,3 +8,6 @@
 [submodule "dynasim"]
 	path = dynasim
 	url = https://github.com/cran/dynasim
+[submodule "topcc"]
+	path = topcc
+	url = https://github.com/cran/topcc

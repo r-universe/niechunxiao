@@ -8,6 +8,9 @@
 [submodule "dynasim"]
 	path = dynasim
 	url = https://github.com/cran/dynasim
+[submodule "locdiff"]
+	path = locdiff
+	url = https://github.com/cran/locdiff
 [submodule "topcc"]
 	path = topcc
 	url = https://github.com/cran/topcc
